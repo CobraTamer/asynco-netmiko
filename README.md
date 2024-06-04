@@ -12,7 +12,7 @@ This project provides an asynchronous wrapper for Netmiko to enable parallel exe
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/async-netmiko.git
+    git clone https://github.com/CobraTamer/async-netmiko.git
     cd async-netmiko
     ```
 
