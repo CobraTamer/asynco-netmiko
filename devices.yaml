@@ -1,0 +1,10 @@
+---
+devices:
+  - device_type: cisco_ios
+    host: 172.16.100.100
+    username: admin
+    password: admin
+  - device_type: cisco_ios
+    host: 172.16.100.100
+    username: admin
+    password: admin
