@@ -20,7 +20,7 @@ This project provides an asynchronous wrapper for Netmiko to enable parallel exe
     ```bash
     pip install netmiko asyncio pyyaml
     ```
-![Project Banner](https://github.com/CobraTamer/asynco-netmiko/IMG_7089.jpeg)
+![Project Banner](https://raw.githubusercontent.com/CobraTamer/asynco-netmiko/main/IMG_7089.jpeg)
 
 ## Usage
 
